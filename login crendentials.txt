@@ -1,0 +1,6 @@
+School Management System in Java
+
+
+username		password
+
+school			school
